@@ -2,6 +2,7 @@
 Tugas 39 Javascript Niomic
 <hr>
 1. Silahkan tuliskan kode HTML berikut : <br>
+
 ```
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -26,6 +27,7 @@ Tugas 39 Javascript Niomic
         <hr />
  </body>
 </html>
+
 ```
 
 2. Buatlah file javascript dengan cara internal style
